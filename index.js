@@ -1,3 +1,15 @@
+
+const server = require('./api/server.js');
+
+server.listen(4000, () => {
+  console.log('\n* Server Running on http://localhost:4000 *\n');
+});
+
+
+
+
+//You are the GOAT
+
 /*
 play this: https://www.youtube.com/watch?v=d-diB65scQU
 
